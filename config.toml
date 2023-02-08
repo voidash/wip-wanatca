@@ -1,0 +1,12 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'WANATCA'
+theme = 'hugo-book'
+
+[params]
+    BookSection = "*"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true

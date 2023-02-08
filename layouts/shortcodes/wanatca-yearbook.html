@@ -1,0 +1,17 @@
+
+{{ $pdf_filepath := "/static/yearbooks/" }}
+{{ $pdf_files := readDir $pdf_filepath }}
+{{ if (fileExists $pdf_filepath) }}
+<ul>
+    {{- range $pdf_files}}
+        <!-- checking extension with regex -->
+        {{ $e := findRE "pdf$" .Name }}
+        {{ if (in $e "pdf")}}
+        <li>
+            {{ $name := split .Name "-"}}
+            <a href="/wanatca-yearbook/{{ trim (index ($name) 0) " " }}">{{ index $name 1}}</a>
+        </li>
+        {{end}}
+    {{- end }}
+</ul>
+{{end}}
