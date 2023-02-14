@@ -1,3 +1,0 @@
-Yearbook
-{{< wanatca-yearbook >}}
-
