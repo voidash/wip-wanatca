@@ -1,7 +1,7 @@
 # The WANATCA Files
 
 {{% center %}}
-{{<     figure src="/images/logo.GIF"  height="100" width="100">}}
+{{<     figure src="/images/logo.GIF"  height="200" width="200">}}
 {{% /center %}}
 The West Australian Nut & Tree Crop Association was brought into existence in 1975 by a small group of people passionate about growing nut trees (the original name was the West Australian Nutgrowing Society). A few years later, fruit and other tree crops were added to the brief. At that time, the variety of nut and fruit trees available to the public was very limited, as was information about the horticulture of growing and propagating exotic plants and the use and processing of their products.
 
