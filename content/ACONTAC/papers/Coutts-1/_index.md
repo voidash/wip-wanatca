@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : The International Nut Trade'
+description: 'The International Nut Trade by Phil Coutts at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

@@ -4,10 +4,8 @@ command/control-F)
 
 
 ------------------------------------------------------------------------
-
-**Y106** Jojoba Nut. *Paul H Thompson.* Vol 1, p. 06 (1975) KWs:
+[**Y106**]({{ ref "content/Y106.md" }}) Jojoba Nut. *Paul H Thompson.* Vol 1, p. 06 (1975) KWs:
 Simmondsia californica
-
 ------------------------------------------------------------------------
 
 **Y120** Notes on nutgrowing in Tasmania. *Bill Mollison.* Vol 1, p. 20

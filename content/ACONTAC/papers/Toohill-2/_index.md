@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Ora Blanca and Other Citrus in the Tropics'
+description: 'Ora Blanca And Other Citrus In The Tropics by Bruce Toohill at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

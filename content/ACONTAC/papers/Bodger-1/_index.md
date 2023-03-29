@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : template for acotanc web site'
+description: 'Template For Acotanc Web Site by Alan Bodger at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

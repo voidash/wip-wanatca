@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Water Dowsing to Assist Performance of Trees'
+description: 'Water Dowsing To Assist Performance Of Trees by David Kennett at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

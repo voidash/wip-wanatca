@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Bee Tubes in Fruit pollination'
+description: 'Bee Tubes In Fruit Pollination by Rob Manning at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : All About Site Planning'
+description: 'All About Site Planning by Chris Ferreira at ACONTAC 2001 conference'
 ---
 <body>
 <br/>

@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Making Landcare Profitable'
+description: 'Making Landcare Profitable by Bill Davey at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Problems Identifying Fig Varieties'
+description: 'Problems Identifying Fig Varieties by Alex Hart at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

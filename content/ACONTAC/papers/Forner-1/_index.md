@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : The Didjeridu Industry in Northern Australia'
+description: 'The Didjeridu Industry In Northern Australia by Joshua Forner at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Water Use Efficiency & Partial Rootzone Drying in Fruit and Nut Trees'
+description: 'Water Use Efficiency & Partial Rootzone Drying In Fruit And Nut Trees by Harold Adem at ACONTAC 2001 conference'
 ---
 <body>
 <br/>

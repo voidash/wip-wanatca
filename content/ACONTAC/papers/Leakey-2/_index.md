@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Diversification of Tree Crops: Domestication of Companion Crops For Poverty Reduction And Environmental Services'
+description: 'Diversification Of Tree Crops: Domestication Of Companion Crops For Poverty Reduction And Environmental Services by Roger Leakey at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Medicines and Chemicals in WA Plants - Historical Overview'
+description: 'Medicines And Chemicals In Wa Plants - Historical Overview by Dr Steve Errington at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

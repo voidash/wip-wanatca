@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Mango Prospects in Australia'
+description: 'Mango Prospects In Australia by Bruce Toohill at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Salinity and Sodicity -- How They Affect Trees'
+description: 'Salinity And Sodicity -- How They Affect Trees by Jim Quirk at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Chestnuts at Dwellingup--Tree Crops Versus Forest'
+description: 'Chestnuts At Dwellingup--Tree Crops Versus Forest by Philip Bodeker at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

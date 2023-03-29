@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Population and Agriculture'
+description: 'Population And Agriculture by Alex McCalla at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

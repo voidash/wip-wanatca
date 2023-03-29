@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Engineering Solutions to Salinity'
+description: 'Engineering Solutions To Salinity by David Williamson at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

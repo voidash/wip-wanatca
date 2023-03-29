@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : New Species of Kiwifruit for Commerce'
+description: 'New Species Of Kiwifruit For Commerce by Roger Meyer at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

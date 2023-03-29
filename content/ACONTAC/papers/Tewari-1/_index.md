@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Plantation Forestry and Success of Various Tree Species in Arid Tropics: Indian Experience'
+description: 'Plantation Forestry And Success Of Various Tree Species In Arid Tropics: Indian Experience by J. C. Tewari at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

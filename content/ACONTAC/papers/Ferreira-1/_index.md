@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : "Management for Tree Crops"'
+description: '"Management For Tree Crops" by Chris Ferreira at ACONTAC 2001 conference'
 ---
 <body>
 <br/>

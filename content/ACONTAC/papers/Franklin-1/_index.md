@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Ecology and Sustainable Use of the Top End Bamboo'
+description: 'Ecology And Sustainable Use Of The Top End Bamboo by Don Franklin at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

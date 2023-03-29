@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Macadamia Industry'
+description: 'Macadamia Industry by Kim Wilson at ACONTAC 2001 conference'
 ---
 <body>
 <br/>

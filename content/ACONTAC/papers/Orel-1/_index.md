@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : APPRAISAL OF SELECTED WALNUT SPECIES'
+description: 'Appraisal Of Selected Walnut Species by George Orel, Adam Marchant, Judyth McLeod, and Graeme Richards at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : How Earth Expansion Gave Us Our Tree Resources'
+description: 'How Earth Expansion Gave Us Our Tree Resources by James Maxlow at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

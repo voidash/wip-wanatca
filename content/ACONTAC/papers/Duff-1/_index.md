@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : About Pistachios in WA'
+description: 'About Pistachios In Wa by John Duff & Bert Hayes at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

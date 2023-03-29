@@ -23,4 +23,3 @@
 
 [Quandong Vol 33 No 4 (2007 4th quarter)]({{< ref "papers/Q07-4.md" >}}).
 
-

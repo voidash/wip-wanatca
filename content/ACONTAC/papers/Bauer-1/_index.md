@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Propagating Useful Australian Plants for Dry Climates'
+description: 'Propagating Useful Australian Plants For Dry Climates by Kylie Bauer at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

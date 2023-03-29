@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Sandalwood as a Plantation Crop'
+description: 'Sandalwood As A Plantation Crop by Andy Wright at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

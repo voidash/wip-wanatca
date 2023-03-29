@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : New Crops, How to get them Working'
+description: 'New Crops, How To Get Them Working by Rob Fletcher at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

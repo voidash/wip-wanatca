@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Guava Wilt Disease'
+description: 'Guava Wilt Disease by Rosemary du Preez at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

@@ -1,8 +1,3 @@
-
-
-
-
-
 Acotanc Conference a "great success"
 
 
@@ -83,7 +78,6 @@ He said that the personal benefits gained by the participants was not the end of
 
 [News Release / 2001 May 1]
 
-[Return to the Acotanc Site Page](index.htm "index.htm")
 
 
 

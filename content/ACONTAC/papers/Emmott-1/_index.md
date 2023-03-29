@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Greening Australias Involvement in Low Rainfall Farm Forestry'
+description: 'Greening Australia Involvement In Low Rainfall Farm Forestry by Tim Emmott at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

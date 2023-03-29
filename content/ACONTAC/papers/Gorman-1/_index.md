@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Cycads'
+description: 'Cycads by Julian Gorman and Peter Whitehead at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

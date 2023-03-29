@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Processing Brazil Nuts'
+description: 'Processing Brazil Nuts by Honorlea Massarella at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

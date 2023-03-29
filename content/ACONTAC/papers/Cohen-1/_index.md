@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Experiences in Establishing a Pomegranate Orchard in WA'
+description: 'Experiences In Establishing A Pomegranate Orchard In Wa by Andrew Cohen at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

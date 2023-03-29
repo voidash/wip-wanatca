@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : The World of Sandalwood Products and Uses'
+description: 'The World Of Sandalwood Products And Uses by Caroline Hughes at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

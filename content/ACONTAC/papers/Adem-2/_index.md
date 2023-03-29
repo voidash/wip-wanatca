@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : The Tatura Hedgerow System for Walnut Trees'
+description: 'The Tatura Hedgerow System For Walnut Trees by Harold Adem at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

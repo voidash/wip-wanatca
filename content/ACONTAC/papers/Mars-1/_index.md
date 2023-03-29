@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Permaculture: Setting the Scene'
+description: 'Permaculture: Setting The Scene by Ross Mars at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

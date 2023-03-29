@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Manjimup--the Heart of the Walnut Industry in WA'
+description: 'Manjimup--The Heart Of The Walnut Industry In Wa by Graham Fellows at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Fruits & Nuts in Chile'
+description: 'Fruits & Nuts In Chile by Dr. Luis Luchsinger at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

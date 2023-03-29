@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Revegetating Western Australia: Research to Reality'
+description: 'Revegetating Western Australia: Research To Reality by Stephen Hill at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

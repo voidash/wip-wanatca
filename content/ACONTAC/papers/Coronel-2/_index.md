@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : THE ECONOMIC FRUITS AND NUTS IN SOUTHEAST ASIA'
+description: 'The Economic Fruits And Nuts In Southeast Asia by Roberto Coronel at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

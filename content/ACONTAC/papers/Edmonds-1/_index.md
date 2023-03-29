@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Growing Australian Bush Foods in WA'
+description: 'Growing Australian Bush Foods In Wa by Aaron Edmonds at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

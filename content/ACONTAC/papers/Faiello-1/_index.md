@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Olive Oil -- The Global Marketing Industry'
+description: 'Olive Oil -- The Global Marketing Industry by Dr Cos Faiello at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

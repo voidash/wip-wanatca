@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Hazelnut technology for warmer climates'
+description: 'Hazelnut Technology For Warmer Climates by Dr. Joan TOUS MARTI at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

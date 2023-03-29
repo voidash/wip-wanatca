@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Pecans in WA'
+description: 'Pecans In Wa by Bernie  Rochester at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

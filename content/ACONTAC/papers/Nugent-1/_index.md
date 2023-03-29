@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Integrating Approaches to Tree Cropping'
+description: 'Integrating Approaches To Tree Cropping by Jeff Nugent at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

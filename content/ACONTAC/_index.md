@@ -1,3 +1,6 @@
+---
+title: ACOTANC
+---
 .
 {{< figure src="/images/acotanc.jpg" >}}
 

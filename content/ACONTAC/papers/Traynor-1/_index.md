@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Tree Crop Pollination in California'
+description: 'Tree Crop Pollination In California by Joe Traynor at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

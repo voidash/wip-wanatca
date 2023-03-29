@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : "Energy Generation and Oil Extraction from Mallee Eucaypts"'
+description: '"Energy Generation And Oil Extraction From Mallee Eucaypts" by Bob Cowan at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

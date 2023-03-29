@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : World Hazelnut Production'
+description: 'World Hazelnut Production by Dr. Joan TOUS MARTI at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

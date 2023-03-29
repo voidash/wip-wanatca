@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : The Resurrection of the Land'
+description: 'The Resurrection Of The Land by Barrie Oldfield at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

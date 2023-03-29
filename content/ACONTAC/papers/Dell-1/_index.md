@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Mycorrhiza and Tree Nutrition'
+description: 'Mycorrhiza And Tree Nutrition by Bernie  Dell	 at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

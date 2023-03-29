@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : My Experiences with New Guinea Coffee as a WA Importer and Roaster'
+description: 'My Experiences With New Guinea Coffee As A Wa Importer And Roaster by Dean Gallegher at ACONTAC 2001 conference'
 ---
 <body>
 <br/>

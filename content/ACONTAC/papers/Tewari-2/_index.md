@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Jujube'
+description: 'Jujube by J. C. Tewari: at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

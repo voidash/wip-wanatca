@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Problems of Setting up a Chestnut Orchard'
+description: 'Problems Of Setting Up A Chestnut Orchard by John Evans at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

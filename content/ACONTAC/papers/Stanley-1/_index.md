@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Goldfields Bushfoods Industry Potential'
+description: 'Goldfields Bushfoods Industry Potential by Phil Stanley at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>
@@ -10,10 +12,12 @@ bookHidden: true
 Goldfields Bushfoods Industry Potential
 </h2></center>
 <br/><br/>
+{{< collapsible summary="Author:" >}}
 <center><h3></h3><div>Name:  
 <span id="1">Phil Stanley  
 E-mail/Web: xerophil@optusnet.com.au  
 </span>  
+{{< /collapsible >}}/
 {{< collapsible summary="Organization:" >}}
 <span id="2">Xerophil P/L  
 Address: PO Box 485 / Kalgoorlie / WA / 6430  

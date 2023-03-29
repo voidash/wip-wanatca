@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Specialist Pollination of Blue Gums for Seed Production'
+description: 'Specialist Pollination Of Blue Gums For Seed Production by Liz Barbour at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

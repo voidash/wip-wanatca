@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Alley-Farming Tree Crops in Semi-Arid Environments'
+description: 'Alley-Farming Tree Crops In Semi-Arid Environments by Dan Wildy at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

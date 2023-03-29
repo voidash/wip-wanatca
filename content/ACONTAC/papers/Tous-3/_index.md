@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Olive Cultivars'
+description: 'Olive Cultivars by Dr. Joan TOUS MARTI at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

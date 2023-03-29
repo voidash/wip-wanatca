@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Jujube Orchards'
+description: 'Jujube Orchards by Roger Meyer at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

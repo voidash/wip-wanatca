@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Coping with Mass Demand for Tree Seedlings'
+description: 'Coping With Mass Demand For Tree Seedlings by Richard Hordacre at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

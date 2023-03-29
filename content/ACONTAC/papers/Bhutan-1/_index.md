@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : An Overview of the Citrus Industry in Bhutan'
+description: 'An Overview Of The Citrus Industry In Bhutan by Ministry of Agriculture at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

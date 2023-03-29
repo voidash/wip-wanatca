@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Gum Arabic--A Tree Crop for Arid Lands'
+description: 'Gum Arabic--A Tree Crop For Arid Lands by  Paul Vantomme at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>

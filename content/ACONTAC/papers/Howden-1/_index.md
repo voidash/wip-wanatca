@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Living for Free, Sustainably'
+description: 'Living For Free, Sustainably by Dr Pat Howden at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

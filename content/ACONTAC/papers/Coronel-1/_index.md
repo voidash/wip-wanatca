@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Underexploited Nuts and Fruits of the Philippines'
+description: 'Underexploited Nuts And Fruits Of The Philippines by  Roberto Coronel at ACONTAC 2001 conference'
 ---
 <body bgcolor="#ffffff">
 <br/>

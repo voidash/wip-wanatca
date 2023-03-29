@@ -1,5 +1,7 @@
 ---
 bookHidden: true
+title: 'Acotanc : Official Opening'
+description: 'Official Opening by Kim Chance at ACONTAC 2001 conference'
 ---
 <body>
 <center></center>
