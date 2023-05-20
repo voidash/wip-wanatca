@@ -16,7 +16,6 @@
     matcher: "simple",
     mode: "forward"
   });
-  console.log(indexConfig);
 
   const input = document.querySelector('#book-search-input');
   const results = document.querySelector('#book-search-results');
@@ -90,9 +89,8 @@
       suggest: true
     });
     let counter = 1;
-    console.log(searchHits);
     searchHits.forEach(function (page) {
-      const li = element(`<li><a tabindex=${counter} href></a><small></small></li>`);
+      const li = element(`<li tabindex=${counter} ><a  href></a><small></small></li>`);
       const a = li.querySelector('a'), small = li.querySelector('small');
 
       a.href = page.href + `#:~:text=${input.value}`;
