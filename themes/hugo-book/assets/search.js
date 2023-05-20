@@ -10,9 +10,13 @@
     doc: {
       id: 'id',
       field: ['title', 'content'],
-      store: ['title', 'href', 'section']
-    }
+      store: ['title', 'href', 'section',]
+    },
+    tokenize: "full",
+    matcher: "simple",
+    mode: "forward"
   });
+  console.log(indexConfig);
 
   const input = document.querySelector('#book-search-input');
   const results = document.querySelector('#book-search-results');
@@ -63,11 +67,12 @@
     fetch(searchDataURL)
       .then(pages => pages.json())
       .then(pages => {
-        window.bookSearchIndex = FlexSearch.create('balance', indexConfig);
+        window.bookSearchIndex = FlexSearch.create('match', indexConfig);
         window.bookSearchIndex.add(pages);
       })
       .then(() => input.required = false)
       .then(search);
+
   }
 
   function search() {
@@ -79,8 +84,13 @@
       return;
     }
 
-    const searchHits = window.bookSearchIndex.search(input.value, 5);
+
+    const searchHits = window.bookSearchIndex.search(input.value, {
+      limit: 5,
+      suggest: true
+    });
     let counter = 1;
+    console.log(searchHits);
     searchHits.forEach(function (page) {
       const li = element(`<li><a tabindex=${counter} href></a><small></small></li>`);
       const a = li.querySelector('a'), small = li.querySelector('small');
