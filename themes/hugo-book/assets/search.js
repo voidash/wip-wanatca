@@ -85,7 +85,7 @@
       const li = element(`<li><a tabindex=${counter} href></a><small></small></li>`);
       const a = li.querySelector('a'), small = li.querySelector('small');
 
-      a.href = page.href;
+      a.href = page.href + `#:~:text=${input.value}`;
       a.textContent = page.title;
       small.textContent = page.section;
 
